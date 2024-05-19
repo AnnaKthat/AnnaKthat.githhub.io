@@ -1,2 +1,2 @@
-Tämä on Verkkosivujen kehittäminen WS06 tehtävä
+Tämä on Verkkosivujen kehittäminen WS12 tehtävä
 
